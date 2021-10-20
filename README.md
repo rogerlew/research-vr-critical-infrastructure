@@ -12,3 +12,13 @@ Development of 3d visualization technique for CDSA (Cyber Defense Situational Aw
 
 no validation yet.
 
+Z. Lv, D. Chen, R. Lou, H. Song. (2021). Industrial Security Solution for Virtual Reality. IEEE Internet of Things Journal 8 (8).
+
+Focused more on the algortihm.
+
+Timotei Erdei, Zsolt Molnár, Nwachukwu C. Obinna, Géza Husi. (2018). A Novel Design of an Augmented Reality Based Navigation System & its Industrial Applications. Acta Imeko 7, (1).: http://dx.doi.org/10.21014/acta_imeko.v7i1.528
+
+J. S. Ortiz, B. S. Guevara, E. G. Espinosa, V. H. Andaluz. Smart University Immersive Virtual Learning. 2020 15th Iberian Conference on Information Systems and Technologies (CISTI).
+
+Created 3d immersive learning environments for control systems and hydraulics. Linked Matlab to Unity. Still used conventional 2d HMIs
+
