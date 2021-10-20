@@ -22,3 +22,6 @@ J. S. Ortiz, B. S. Guevara, E. G. Espinosa, V. H. Andaluz. Smart University Imme
 
 Created 3d immersive learning environments for control systems and hydraulics. Linked Matlab to Unity. Still used conventional 2d HMIs
 
+M. P. A. de Sousa, M. R. Filho, M. V. A. Nunes, A. da Costa Lopes. (2010). Maintenance and operation of a hydroelectric unit of energy in a power system using virtual reality. Electrical Power and Energy Systems.
+
+examined training and maintenenance of hydroelectric turbine generator using VR.
