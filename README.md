@@ -56,4 +56,10 @@ Retrofuturism: incorporates spatial motifs from previous iterations of the futur
 ![image](https://user-images.githubusercontent.com/3652906/141191923-991cab57-0f49-4622-ae6b-2f3bc2d01b9f.png)
 
 
+![image](https://user-images.githubusercontent.com/3652906/141192480-9c4092b3-6238-43d9-8deb-50ca3e2d8e43.png)
+
+https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6
+
+![image](https://user-images.githubusercontent.com/3652906/141192890-e72e98e9-a70c-4ba3-89c0-b7727eca0ee3.png)
+
 
