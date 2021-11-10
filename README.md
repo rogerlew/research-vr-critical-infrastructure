@@ -36,3 +36,24 @@ T. Page. 2014. Skeumorphism or flat design: future directions in mobile device U
 
 Questionaire of 274 design students. No differences distiguished between gender. mixed on whether there was a role for skeumorphic design. Perception that skeumorphism was associated with Apple were flat design was associated with web design.
 
+
+Wikipedia https://en.wikipedia.org/wiki/Skeuomorph
+
+
+Etymology of the term Skeumorph. Derived from the Greek words skeuos (σκεῦος), meaning "container or tool", and morphḗ (μορφή), meaning "shape"
+
+Donald Norman on skeumorphism:  describes skeuomorphism in terms of cultural constraints: interactions with a system that are learned only through culture. Norman also popularized perceived affordances, where the user can tell what an object provides or does based on its appearance, which skeuomorphism can make easy. https://web.archive.org/web/20121120145620/http://www.jnd.org/dn.mss/affordances_and.html
+
+![image](https://user-images.githubusercontent.com/3652906/141190634-be0f2d65-67ff-47e1-932e-64691156493c.png)
+
+Neumorphism -> New Skeumorphism
+
+Originated from Dribble and Instagram
+
+
+Retrofuturism: incorporates spatial motifs from previous iterations of the future; especially visions of electro-industrialism.[27] This is frequently incorporated in retrowave or synthwave illustrations. Skeumorphic time is closely linked with metamodernism.
+
+![image](https://user-images.githubusercontent.com/3652906/141191923-991cab57-0f49-4622-ae6b-2f3bc2d01b9f.png)
+
+
+
