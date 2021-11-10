@@ -25,3 +25,14 @@ Created 3d immersive learning environments for control systems and hydraulics. L
 M. P. A. de Sousa, M. R. Filho, M. V. A. Nunes, A. da Costa Lopes. (2010). Maintenance and operation of a hydroelectric unit of energy in a power system using virtual reality. Electrical Power and Energy Systems.
 
 examined training and maintenenance of hydroelectric turbine generator using VR.
+
+S. Furber. 2016. Large-scale neuromorphic computing systems. Journal of Nuclear Engineering.
+
+Neuromorphic computing covers a diverse range of approaches to information processing all of which demonstrate some degree of neurobiological inspiration that differentiates them from mainstream conventional computing systems. 
+
+C. Collin, & R. Woodburn. 1998. NEUROMORPHISM OR PRAGMATISM?: A FORMAL APPROACH. https://doi.org/10.1142/9789812816535_0002
+
+T. Page. 2014. Skeumorphism or flat design: future directions in mobile device User Interface (UI) design education. Int. J. Mobile Learning and Organization, 8 (2).
+
+Questionaire of 274 design students. No differences distiguished between gender. mixed on whether there was a role for skeumorphic design. Perception that skeumorphism was associated with Apple were flat design was associated with web design.
+
